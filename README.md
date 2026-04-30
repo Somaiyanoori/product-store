@@ -3,6 +3,8 @@
 A full-featured product store built with React, demonstrating three different state management approaches: Context API + useReducer, Redux Toolkit, and React Query.
 
 ---
+### Project Demo
+![Project Demo](../src/assets/store.mp4) 
 
 ## Features
 
@@ -129,7 +131,7 @@ Why: API data needs caching, background refetching, loading states, error handli
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Somaiyanoori/product_store.git
+git clone https://github.com/Somaiyanoori/product-store.git
 cd product-store
 ```
 
