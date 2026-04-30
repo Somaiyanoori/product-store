@@ -4,7 +4,7 @@ A full-featured product store built with React, demonstrating three different st
 
 ---
 ### Project Demo
-![Project Demo](../src/assets/store.mp4) 
+![Project Demo](./src/assets/store.mp4)
 
 ## Features
 
